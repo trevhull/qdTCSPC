@@ -11,3 +11,7 @@ The big requirements to get this to run that you may not have are:
 The idea to use this is to create a "ptu" object, that will hold all your photon stream data. Once you load your TTTR stream
 in with pqreader you can then do lifetime plotting, blinking, antibunching, and some other analysis. The resulting data is 
 usually saved to the "ptu" object so you can plot it again later. Still a work in progress! Need to write some good documentation!
+
+Usage:
+1. Make sure all dependencies are fulfilled
+2. Run the qdtcspc.py script in your console/notebook, etc.
